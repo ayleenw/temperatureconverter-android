@@ -1,4 +1,4 @@
-package de.naemiluna.temperatureconverter
+package de.naemiluna.temperatureconverter_android
 
 import org.junit.Test
 

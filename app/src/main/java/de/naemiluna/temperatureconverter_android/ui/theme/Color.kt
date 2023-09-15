@@ -1,4 +1,4 @@
-package de.naemiluna.temperatureconverter.ui.theme
+package de.naemiluna.temperatureconverter_android.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
