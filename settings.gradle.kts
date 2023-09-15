@@ -10,8 +10,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        mavenLocal()
     }
 }
 
-rootProject.name = "Temperature Converter"
+rootProject.name = "Temperature_Converter"
 include(":app")
